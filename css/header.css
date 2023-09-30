@@ -1,0 +1,6 @@
+.header__navbar {
+  max-width: 470px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
